@@ -1,0 +1,17 @@
+// RenderURL:
+https://mentorstudent-bjuz.onrender.com/
+
+https://mentorstudent-bjuz.onrender.com/mentor
+https://mentorstudent-bjuz.onrender.com/student
+https://mentorstudent-bjuz.onrender.com/mentor/:mentorId/students
+https://mentorstudent-bjuz.onrender.com/student/:studentId/assignMentor/:mentorId
+
+
+//EndPoints:
+/mentor
+/student
+/mentor/:mentorId/students
+/student/:studentId/assignMentor/:mentorId
+
+//GitHub:
+https://github.com/MohileshM/Day-39-Tasks-StudentMentor
